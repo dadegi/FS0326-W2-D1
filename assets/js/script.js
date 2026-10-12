@@ -36,3 +36,11 @@ let userSurname = 'Paperino';
 console.log('Il nome dell\'utente è ' + userName + ' ' + userSurname);
 // template literal
 console.log(`Il nome dell\'utente è ${userName} ${userSurname}`);
+
+let myEmpty = null;
+
+console.log(typeof userName);
+console.log(typeof MYAGE);
+console.log(typeof myVariable);
+console.log(typeof myBoolean);
+console.log(typeof myEmpty);
